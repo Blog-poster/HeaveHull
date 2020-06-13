@@ -1,6 +1,6 @@
 # HeaveHull
 Blog poster project
 ### Members : 
-Krishnakumar 
-Kaarthikeyan 
-Gokul
+* Krishnakumar V 
+* Kaarthikeyan S
+* Gokul K
