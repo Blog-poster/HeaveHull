@@ -2,5 +2,5 @@
 Blog poster project
 ### Members : 
 * Krishnakumar V 
-* Kaarthikeyan S
+* Karthikeyan S
 * Gokul K
